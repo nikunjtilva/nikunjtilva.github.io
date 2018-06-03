@@ -29,6 +29,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 remote_theme: yous/whiteglass
 
@@ -44,7 +45,8 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-  
+
+google_analytics: UA-120268676-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

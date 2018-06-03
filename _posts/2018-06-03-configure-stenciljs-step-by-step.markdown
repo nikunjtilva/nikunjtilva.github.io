@@ -3,6 +3,7 @@ layout: post
 title:  "Configure StencilJS from scratch step by step"
 date:   2018-06-03 01:45:21 +0200
 categories: stenciljs
+keywords: stenciljs, webcomponents, webcomponent compiler, configure stenciljs
 ---
 
 [StencilJS][stencil-js] is a latest offering from [ionic][ionic]. It is not another javascript framework but its just a compiler to generate web components. There are many reasons to choose StencilJS as compiler for web components as mentioned below. 
