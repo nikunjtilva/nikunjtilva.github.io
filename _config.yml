@@ -24,7 +24,6 @@ github_username:  nikunjtilva
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-archives
   - jekyll-paginate
