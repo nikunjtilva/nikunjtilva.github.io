@@ -139,7 +139,7 @@ Along with build folder create an index.html file as shown below.
 </html>
 {% endhighlight %}
 
-If `http-server` is installed just run `$ http-server' command where index.html file you have created. if `http-server` not installed just run `npx http-server`. npx allows user to run any node module without downloading it. 
+If `http-server` is installed just run `$ http-server` command where index.html file you have created. if `http-server` not installed just run `npx http-server`. npx allows user to run any node module without downloading it. 
 
 Navigate to browser and you will see our first component in action.
 
